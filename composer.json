@@ -1,6 +1,6 @@
 {
-  "name": "fond-of-spryker/conditional-availability-page-search-rest-api",
-  "description": "Conditional availability page search rest api module.",
+  "name": "fond-of-spryker/conditional-availability-page-search-rest-api-extension",
+  "description": "Conditional availability page search rest api extension module.",
   "license": "MIT",
   "authors": [
     {
@@ -12,8 +12,8 @@
     "php": ">=7.2"
   },
   "require-dev": {
-    "spryker/code-sniffer": "^0.12",
-    "codeception/codeception": "^2.4",
+    "spryker/code-sniffer": "^0.15",
+    "codeception/codeception": "^3.0 || ^4.0",
     "sebastian/phpcpd": "^4.0",
     "fond-of-codeception/spryker": "dev-master"
   },
